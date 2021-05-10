@@ -36,6 +36,8 @@ Is the new
 
 [![Darian-Frey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darian-Frey&show_icons=true&theme=tokyonight)](https://github.com/Darian-Frey/github-readme-stats)
 
+![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=Darian-Frey&layout=compact&theme=tokyonight&hide_border=false)
+
 
 <!--
 **Darian-Frey/Darian-Frey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
