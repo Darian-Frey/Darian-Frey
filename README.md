@@ -38,4 +38,6 @@ Is the new
 
 ![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=Darian-Frey&layout=compact&theme=tokyonight&hide_border=false)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darian-Frey&theme=tokyonight&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=Darian-Frey&color=red&style=plastic)
