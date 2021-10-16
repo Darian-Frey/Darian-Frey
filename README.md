@@ -2,8 +2,7 @@
 
 <hr>
 
-Hi, I'm Darian Frey, also known as Shane Hartley, I'm a student with [Code Institute](https://codeinstitute.net/) 
-studying for a Diploma in Full-Stack Software Development.
+Hi, I'm Darian Frey, also known as Shane Hartley.
 
 <hr>
 
