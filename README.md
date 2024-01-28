@@ -6,18 +6,7 @@ Hi, I'm Darian Frey, also known as Shane Hartley.
 
 <hr>
 
-```python
-while True:
-  print(f"Hello, World!\n"
-```
-Is the new
-```basic
-10: print"Hello, World!"
-20: GOTO 10
-```
 
-
-<img align="centre" alt="PNG" src="https://imgs.xkcd.com/comics/python.png?raw=true" width="500" height="600" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
