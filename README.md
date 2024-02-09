@@ -20,6 +20,7 @@ Hi, I'm Darian Frey, also known as Shane Hartley.
 ![Linux](https://img.shields.io/badge/-Linux-%234B32C3?style=flat-square&logo=Linux)
 ![Github](https://img.shields.io/badge/-Github-%23F05032?style=flat-square&logo=github&logoColor=%23ffffff)
 ![Gitpod](https://img.shields.io/badge/-Gitpod-%23007ACC?style=flat-square&logo=Gitpod)
+![Jva](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white).
 
 
 [![Darian-Frey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darian-Frey&show_icons=true&theme=tokyonight)](https://github.com/Darian-Frey/github-readme-stats)
