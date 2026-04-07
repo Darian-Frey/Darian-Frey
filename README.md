@@ -32,7 +32,7 @@
 ```python
 researcher = {
     "name"      : "Shane Hartley",
-    "location"  : "Kings Langley, England 🇬🇧",
+    "location"  : "England 🇬🇧",
     "focus"     : ["Theoretical Physics", "Mathematics", "Systems Software"],
     "method"    : "Multi-LLM hub-and-spoke synthesis",
     "hardware"  : "ThinkPad P15 Gen 2i · Linux",
