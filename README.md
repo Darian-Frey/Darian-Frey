@@ -36,85 +36,12 @@ researcher = {
     "focus"     : ["Theoretical Physics", "Mathematics", "Systems Software"],
     "method"    : "Multi-LLM hub-and-spoke synthesis",
     "hardware"  : "ThinkPad P15 Gen 2i · Linux",
-    "passion"   : "Retro computing · Atari ST · Aperiodic tiling",
-    "currently" : "Coupling Krylov complexity to Einstein-Hilbert gravity (CODA)"
+    "passion"   : "Retro computing · Atari ST · Mathematics",
+    "currently" : "Terra Siege"
 }
 ```
 
 I work across the boundary of theoretical physics, algebraic complexity, and low-level software — building things that probably shouldn't work and then proving that they do. My research spans modified gravity models, dark matter alternatives, Geometric Complexity Theory, and Yang-Mills mass gap mathematics. On the software side I ship production C++20 tools, Qt desktop applications, and the occasional retro-inspired game engine.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ▋ ACTIVE PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 [CODA](https://github.com/Darian-Frey/CODA)
-**Complexity-Originated Dynamics of Action**
-
-A theoretical physics framework that couples a covariant Krylov complexity density to the Einstein-Hilbert action, deriving modified field equations from first principles. Currently developing the MOND phenomenology thread.
-
-`C++` `LaTeX` `Python` `GR` `Krylov Complexity`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌀 CODE-GEO / Euclid Sentinel
-**Mimetic-Conformal Scalar-Tensor Gravity**
-
-A complete pipeline rebuild analysing 171 SPARC galaxy rotation curves as a MOND-compatible dark matter alternative. Corrected physics implementations across the full pipeline including a hybrid free function F(Q) fit.
-
-`Python` `NumPy` `SciPy` `Astrophysics` `SPARC`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 terra-siege
-**C++/raylib reimagining of the 1988 Atari ST classic *Virus***
-
-15-system architecture with fractal planet terrain, directional shields, proportional navigation missiles, auto-turrets, and a flat-shaded polygon aesthetic. Linux-first, 120Hz fixed-timestep physics.
-
-`C++20` `raylib` `Diamond-Square` `Physics`
-
-</td>
-<td width="50%" valign="top">
-
-### 💿 ARC-9 / ARCHIVIST
-**100-Year Cold Storage Filesystem**
-
-Production C++20 archival system targeting M-DISC/optical media with ISA-L SIMD erasure coding, BLAKE3 hashing, and cross-platform memory-mapped I/O. Qt 6 desktop front-end with four-tier monetisation model.
-
-`C++20` `Qt 6` `ISA-L` `BLAKE3` `Erasure Coding`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💾 Atari ST Disk Toolkit
-**Forensic-Grade FAT12 Analysis**
-
-Qt5/C++17 disk image toolkit with FAT visualiser, hex viewer, and brute-force directory recovery. Built for the retro computing and demoscene community.
-
-`C++17` `Qt 5` `FAT12` `Retro Computing`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Post-Quantum Cryptography
-**AVX2 NTT for CRYSTALS-Kyber / ML-KEM**
-
-Hand-optimised AVX2 Number-Theoretic Transform implementation for post-quantum lattice cryptography, targeting Intel Kaby Lake microarchitecture.
-
-`C` `AVX2` `Assembly` `CRYSTALS-Kyber` `ML-KEM`
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -178,4 +105,5 @@ Hand-optimised AVX2 Number-Theoretic Transform implementation for post-quantum l
 
 ![](https://komarev.com/ghpvc/?username=Darian-Frey&color=FF006E&style=plastic&label=VISITORS)
 
+</div>
 </div>
